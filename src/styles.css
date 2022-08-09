@@ -1,0 +1,28 @@
+@font-face {
+    src: url("src/NASDAQER.ttf");
+    font-family: Nasdaq;
+}
+
+body {
+    background: whitesmoke;
+    color: whitesmoke;
+    font-family: 'Rammetto One', cursive;
+  }
+  
+  .ad {
+    background: #35654d;
+    border: 5px solid #ACBC71;
+    text-align: center;
+    font-family: Nasdaq;
+  }
+  
+  .cta {
+    border: 2px solid #ACBC71;
+    padding: 5px 10px;
+    background: #8F4737;
+  }
+
+  .joker-img {
+    width: 80px;
+    height: 80px;
+  }
