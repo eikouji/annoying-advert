@@ -10,3 +10,5 @@ Joker Image from WikiCommons.
 
 
 # URL of Annoying Advert #
+
+https://eikouji.github.io/annoying-advert/
